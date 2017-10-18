@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Çöpçatan</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ayarlar</string>
+    <string name="facebook_app_id">1299885576734784</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6002079974130698/5304852764</string>
+</resources>

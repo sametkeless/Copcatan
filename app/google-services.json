@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "143238189901",
+    "firebase_url": "https://navigationbardenemeler.firebaseio.com",
+    "project_id": "navigationbardenemeler",
+    "storage_bucket": "navigationbardenemeler.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143238189901:android:49e80266f81d6cd9",
+        "android_client_info": {
+          "package_name": "com.tolerans.samet.navigationbardenemeler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143238189901-uudlm0vclcfavnlqr985rv141ap58f7u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tolerans.samet.navigationbardenemeler",
+            "certificate_hash": "B93633AB9411249364C7033DB1FF6DBA15BEEFF5"
+          }
+        },
+        {
+          "client_id": "143238189901-n243p3qj1vm28tdsq2ng8u36qvabp4cl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXx4HfcIHlvJ6Lyr8hWVvLpakpJIHhTDw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143238189901-n243p3qj1vm28tdsq2ng8u36qvabp4cl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

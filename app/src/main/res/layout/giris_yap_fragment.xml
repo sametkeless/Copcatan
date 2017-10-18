@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.tolerans.samet.navigationbardenemeler.Fragments.GirisYapFragment"
+    >
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/friendbackground_min"
+        android:scaleType="centerCrop"
+      />
+    <com.facebook.login.widget.LoginButton
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:id="@+id/facebook_login_button"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_marginBottom="50dp"
+        ></com.facebook.login.widget.LoginButton>
+
+</FrameLayout>
